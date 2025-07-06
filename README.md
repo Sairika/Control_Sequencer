@@ -74,9 +74,8 @@ The processor follows a standard three-phase cycle:
 ## File Structure
 
 ```
-├── Modified_SAP_Architecture.circ    # Main Logisim circuit file
 ├── README.md                         # This file
-├── 1908034_Sabrina Sultana_control_sequencer.circ           # Detailed project documentation
+├── 1908034_Sabrina Sultana_control_sequencer.circ            # Main Logisim circuit file
 ```
 
 ## Getting Started
